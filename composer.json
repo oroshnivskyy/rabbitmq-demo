@@ -1,0 +1,15 @@
+{
+  "name": "rosh/rabbit-tutorial",
+  "description": "RabbitMQ tutorial",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Oleg Roshnivskyy",
+      "email": "oleg.roshnivskyy@gmail.com"
+    }
+  ],
+  "require": {
+    "videlalvaro/php-amqplib": "v2.4.1"
+  }
+}
